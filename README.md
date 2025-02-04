@@ -16,3 +16,8 @@ This project analyzes hospital patient data using SQL queries to extract insight
 1. Clone the repository:
    ```bash
    git clone(https://github.com/ahmed-essam121/Hospital-Database-Analysis)
+
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ahmed-essam12/))
+- [GitHub](https://github.com/ahmed-essam121)
